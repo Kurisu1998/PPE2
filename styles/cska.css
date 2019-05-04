@@ -1,0 +1,81 @@
+#logoGSB{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#ok{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+#txtLogin{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#txtMdp{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h3{
+  text-align: center;
+}
+label{
+  margin-left: 585px;
+}
+nav ul{
+  padding: 0px;margin: 0px;/*empêcher les pointillés de bouger*/
+
+  list-style-type: none;
+    height: 20px;
+  width: -160px;
+  margin-top: 70px;
+}
+nav li{
+  display: inline-block;
+  width: 200px;
+  height: 10px;
+  margin: 0px;
+  padding: 0px;
+  margin-left: 65.8px; /*Déplacer les menus */
+  text-align: center;
+  padding-bottom: 10px;
+
+}
+
+nav a{
+  display: block;
+  margin-left: 75px;
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+
+display: block;
+background-color: gold;
+text-decoration: blink;
+
+
+}
+
+legend{
+  text-align: center;
+
+}
+
+#ajouter{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#d{
+  text-align: center;
+  font-weight: bold;
+}
